@@ -1,0 +1,23 @@
+_repo: Silkkilaiva_64025
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elenius, Emil
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '52409'
+    url: http://www.gutenberg.org/2009/agents/52409
+    wikipedia: https://fi.wikipedia.org/wiki/Emil_Elenius
+description: ''
+gutenberg_issued: '2020-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64025'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Silkkilaiva
+url: http://www.gutenberg.org/ebooks/64025
